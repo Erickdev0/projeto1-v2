@@ -1,6 +1,3 @@
-<p>
- <img src="./arquivos/preview.png" alt="demonstração do projeto" width="100%" />
-</p>
 
 ## 🖥️ Projeto
 
